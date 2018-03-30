@@ -1,0 +1,189 @@
+title: Feliz cumple, Gra!
+description: > # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+
+permalink: ':title/'
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+site-twitter: #if your site has a twitter account, enter it here
+
+# Author Settings
+author: Graciela # add your name
+author-img: Gra.jpg # add your photo
+about-author: I am a web developer focusing on front-end development. Always hungry to keep learning. # add description
+social-twitter: # add your Twitter handle
+social-facebook: # add your Facebook handle
+social-github: artemsheludko # add your Github handle
+social-linkedin: # add your Linkedin handle
+social-email: # add your Email address
+
+
+# Build Settings
+markdown: kramdown
+plugins:
+  - jemoji
+
+# Emojis list: https://www.fileformat.info/info/emoji/list.htm
+entries:
+  - title: Gracielita 
+    description: ':stuck_out_tongue_winking_eye: Biografía no oficial:
+
+Se dice que nació hace muchísimo, cuando la televisión no existía y el teléfono era un lujo.
+
+Sus primos afirman que pasaba sus días de verano yendo al club (esto indicaría que provenía de “familia bienuda”). También se comenta que fumaba desde joven y bronceaba su piel al sol, provocando el enojo de su progenitor, quien no sabía qué hacer ante su actitud provocadora.
+
+Tuvo una adolescencia un tanto complicada, en la que se veía forzada a ahorrar para poder pagar los sobornos que le exigía su hermana mayor.
+
+Desde joven mostraba su espíritu rebelde; algunos rumores incluso indican que mostraba sus atributos usando minifaldas muy osadas para su época.
+
+Su aclamado rol como maestra jardinera tendría el poder de convertir una simple caminata hasta el centro de Luján, en el más terrible e interrumpido de los periplos, tardando días en poder llegar a la plaza. 
+
+Sus sobrinos la recuerdan con amor, posiblemente porque los habría sobornado con golosinas y salidas al cine.
+
+Habría evidencia de su rol como esposa poco sumisa, ya que fuentes confiables confirman que Graciela accedía a los licores de su esposo, al parecer para emborracharse con sus mejores amigas.
+
+Sus hijos afirman que era un poco rompe bolas, pero que siempre los alentó a ser libres y felices. Por lo cual, aparentemente, estarían agradecidos.  Sin embargo, ciertas fuentes no oficiales indican que dichos hijos, habrían sometido a Graciela a penitencias tales como depositarla por largos periodos sobre diferentes muebles sin que ella, pobre santa, pudiese saltar desde los mismos.
+
+Sus nueras y yernos (yernos, plural??) la admiran y le temen, ya que nunca saben con qué les va a salir. También suelen aprovecharse de su rol como segunda madre, abusando del lazo político, para demandarle atenciones del tipo culinaria (básicamente, vaciando su heladera).
+
+Lectora ávida; contaría hasta el día de la fecha con una colección de libros que datan desde principio de siglo.
+
+En la actualidad se destaca en su rol como abuela consagrada y revolucionaria, permitiendo que sus nietos profieran los más variados y creativos insultos libremente en su residencia de Luján de Cuyo.
+
+A primera vista, daría la sensación de debajo de su apacible y dulce apariencia, se encontraría un alma revolucionaria, libre, curiosa, y creativa. Escuchemos lo que cuentan los siguientes relatos para así formarnos una opinión más acabada de este misterioso personaje…
+'
+    img: Los4.jpg
+  #  audios:
+   #   - Guada.mp3
+  - title: 3 nietos! Bien ahí! Guada 
+    description: ':heartbeat:'
+    img: Guada.png
+    audios:
+      - Guada.mp3
+  - title: 3 nietos! Bien ahí! Joaco 
+    description: ':heartbeat:'
+    img: Joaco.jpg
+    audios:
+      - Joaco.mp3
+  - title: 3 nietos! Bien ahí! Montse
+    description: ':heartbeat:'
+    img: Monse.jpg
+    audios:
+      - Monse1.mp3
+      - Monse2.mp3
+  - title: Tu hijita linda, Cele 
+    description: ':blue_heart:'
+    img: Cele.png
+    audios:
+      - Cele.mp3
+  - title: ayyy que lindos los melli, Nano 
+    description: ':green_heart:'
+    img: Nano.jpg
+    audios:
+      - Nano.mp3
+  - title: ayyy que lindos los melli, Eze 
+    description: ':yellow_heart:'
+    img: Eze.jpg
+    audios:
+      - Eze.mp3
+      - Kaval2.mp3
+  - title: Hermosa nuera, no? Pili 
+    description: ':purple_heart:'
+    img: Pili.jpg
+    audios:
+      - EzeyPili1.mp3
+      - EzeyPili2.mp3
+      - EzeyPili3.mp3
+  - title: Pero que lindo muchacho. Seba
+    description: ':purple_heart:'
+    img: Seba.png
+    audios:
+      - Seba.mp3
+  - title: Tu querida hermanita, Alba 
+    description: ':smiley:'
+    img: Alba.jpg
+    audios:
+      - Alba1.mp3
+      - Alba2.mp3
+      - Alba3.mp3
+  - title: Tu ahijada, Albi 
+    description: ':heart_decoration:'
+    img: Albi.png
+    audios:
+      - Albita1.mp3
+      - Albita2.mp3
+  - title: El bombonazo del Juani 
+    description: ':smile:'
+    img: Juani.jpg
+    audios:
+      - Juani.mp3
+  - title: Que lindo tener tantas buenas amigas. Dorita 
+    description: ':heart_eyes_cat:'
+    img: Amigas.jpg
+    audios:
+      - Dorita1.mp3
+      - Dorita2.mp3
+  - title: Que lindo tener tantas buenas amigas. Mabel 
+    description: ':heart_eyes_cat:'
+    img: Mabel.jpg
+    audios:
+      - Mabel.mp3
+  - title: Que lindo tener tantas buenas amigas. María del Carmen 
+    description: ':heart_eyes_cat:'
+    img: MariaDelCarmen.png
+    audios:
+      - MariaDelCarmen.mp3
+  - title: Que lindo tener tantas buenas amigas. Mercedes 
+    description: ':heart_eyes_cat:'
+    img: Amigas.jpg
+    audios:
+      - Mercedes.mp3
+  - title: Sobrina por elección. Erica 
+    description: ':heart_eyes_cat:'
+    img: Erica.png
+    audios:
+      - Erica1.mp3
+      - Erica2.mp3
+      - Erica3.mp3
+  - title: Hablando de personas hermosas. Gaspar
+    description: ':heart_eyes_cat:'
+    img: Gaspi.jpg
+    audios:
+      - Gaspi.mp3
+  - title: Tus amad@s Prim@s. Mary
+    description: ':heart_eyes:'
+    #img: Mary.jpg
+    audios:
+      - Mary.mp3
+  - title: Tus amad@s Prim@s. Mirta & flia.
+    description: ':heart_eyes:'
+    #img: Mary.jpg
+    audios:
+      - Mirta1.mp3
+      - Mirta2.mp3
+      - Mirta3.mp3
+  - title: Tus amad@s Prim@s. Negra
+    description: ':heart_eyes:'
+    #img: Mary.jpg
+    audios:
+      - Negra1.mp3
+      - Negra2.mp3
+  - title: Tus amad@s Prim@s. Olga
+    description: ':heart_eyes:'
+    #img: Mary.jpg
+    audios:
+      - Olga.mp3
+  - title: Tus amad@s Prim@s. Patin
+    description: ':heart_eyes:'
+    #img: Mary.jpg
+    audios:
+      - Patin.mp3
+  - title: Otro bombón. Ramiro
+    description: ':heart_eyes:'
+    img: Rama.jpg
+    audios:
+      - Rama.mp3
+
+exclude: ["node_modules", "gulpfile.js", "package.json", "package-lock.json", "Gemfile", "Gemfile.lock"]
