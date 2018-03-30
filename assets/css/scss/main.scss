@@ -23,6 +23,10 @@ h1 {
   font-weight: 400;
 }
 
+p {
+  font-size: 20px;
+}
+
 img {
   max-width: 100%;
   vertical-align: middle;
@@ -93,7 +97,6 @@ table tfoot td {
 }
 
 .wrapper {
-  max-width: 1250px;
   position: relative;
 }
 
@@ -122,12 +125,6 @@ table tfoot td {
 
 /* - - - - - - - - - - Home Page Styles - - - - - - - - - - */
 @import 'parts/home-page';
-
-/* - - - - - - - - - - Post Page Styles - - - - - - - - - - */
-@import 'parts/post-page';
-
-/* - - - - - - - - - - Tag Styles - - - - - - - - - - */
-@import 'parts/tag';
 
 /* - - - - - - - - - - Media Styles - - - - - - - - - - */
 @import 'media';
