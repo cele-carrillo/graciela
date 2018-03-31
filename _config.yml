@@ -88,6 +88,12 @@ entries:
     img: Seba.png
     audios:
       - Seba.mp3
+  - title: Ramiro
+    description:
+      - 'Otro bombón :heart_eyes:'
+    img: Rama.jpg
+    audios:
+      - Rama.mp3
   - title: Alba 
     description:
       - 'Su querida hermanita :smiley:'
@@ -134,6 +140,12 @@ entries:
     img: Merce.jpg
     audios:
       - Mercedes.mp3
+  - title: Ulde
+    description:
+      - 'Que lindo tener tantas buenas amigas :heart_eyes_cat:'
+    img: Ulde.jpg
+    audios:
+      - Ulde.mp3
   - title: Erica 
     description:
       - 'Sobrina por elección :heart_eyes_cat:'
@@ -182,11 +194,4 @@ entries:
     img: Primos.jpg
     audios:
       - Patin.mp3
-  - title: Ramiro
-    description:
-      - 'Otro bombón :heart_eyes:'
-    img: Rama.jpg
-    audios:
-      - Rama.mp3
-
 exclude: ["node_modules", "gulpfile.js", "package.json", "package-lock.json", "Gemfile", "Gemfile.lock"]
