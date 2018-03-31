@@ -133,7 +133,7 @@ entries:
   - title: Mercedes  
     description:
       - 'Que lindo tener tantas buenas amigas :heart_eyes_cat:'
-    img: Amigas.jpg
+    img: Merce.jpg
     audios:
       - Mercedes.mp3
   - title: Erica 
@@ -150,37 +150,38 @@ entries:
     img: Gaspi.jpg
     audios:
       - Gaspi.mp3
+  - title: Negra
+    description:
+      - 'Tus amad@s Prim@s :heart_eyes:'
+    img: Primos.jpg
+    audios:
+      - Negra1.mp3
+      - Negra2.mp3
+      - Negra3.mp3
   - title: Mary
     description:
       - 'Tus amad@s Prim@s :heart_eyes:'
-    #img: Mary.jpg
+    img: Primos.jpg
     audios:
       - Mary.mp3
   - title: Mirta & flia.
     description:
       - 'Tus amad@s Prim@s :heart_eyes:'
-    #img: Mary.jpg
+    img: Primos.jpg
     audios:
       - Mirta1.mp3
       - Mirta2.mp3
       - Mirta3.mp3
-  - title: Negra
-    description:
-      - 'Tus amad@s Prim@s :heart_eyes:'
-    #img: Mary.jpg
-    audios:
-      - Negra1.mp3
-      - Negra2.mp3
   - title: Olga
     description:
       - 'Tus amad@s Prim@s :heart_eyes:'
-    #img: Mary.jpg
+    img: Primos.jpg
     audios:
       - Olga.mp3
   - title: Patin
     description:
       - 'Tus amad@s Prim@s :heart_eyes:'
-    #img: Mary.jpg
+    img: Primos.jpg
     audios:
       - Patin.mp3
   - title: Ramiro
