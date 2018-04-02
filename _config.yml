@@ -146,6 +146,12 @@ entries:
     img: Ulde.jpg
     audios:
       - Ulde.mp3
+  - title: Mary
+    description:
+      - 'Que lindo tener tantas buenas amigas :heart_eyes_cat:'
+    img: MaryG.png
+    audios:
+      - MaryG.mp3
   - title: Erica 
     description:
       - 'Sobrina por elección :heart_eyes_cat:'
